@@ -39,7 +39,7 @@ A decentralized voting application built with **Vite**, **React**, **TypeScript*
 ## 🔧 Installation
 
 1. **Clone the repository**
-   ```bash
+   ``bash
       git clone <repository-url>
          cd decentralized-voting-app
             ```
@@ -48,6 +48,7 @@ A decentralized voting application built with **Vite**, **React**, **TypeScript*
                ```bash
                   npm install
                      ```
+## 🔧 Installation
 
                      3. **Environment Setup**
                         ```bash
